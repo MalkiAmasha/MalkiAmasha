@@ -23,7 +23,7 @@ Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-
 
 <div align="center">
 <div>
-  I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+  I love exploring new technologies and leveraging them to solve real-life problems. I am fueled by a deep passion for technology and innovation. I thrive on exploring the latest advancements in the tech world and uncovering innovative ways to apply them to solve real-life challenges.
 </div>
 </div>
 
