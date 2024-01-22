@@ -1,30 +1,99 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Malki Amasha</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<h1 align="center">
+Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Malki</a>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malkiamasha&label=Profile%20views&color=0e75b6&style=flat" alt="malkiamasha" /> </p>
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1865F7&center=true&vCenter=true&random=false&width=435&lines=I+~+I'm+a+Full-Stack+Developer+~+!" alt="Typing SVG" /></a>
+</h3> 
 
-- 🌱 I’m currently learning **BSc (Hons) in Data Science**
+<i class="fab fa-pinterest"></i>
 
-- 📫 How to reach me **malkiamasha0316@gmail.com**
-
-- ⚡ Fun fact **I am funny.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/malki-amasha-54a568242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/malki-amasha-54a568242/" height="30" width="40" /></a>
-<a href="https://fb.com/malki amasha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malki amasha" height="30" width="40" /></a>
-<a href="https://instagram.com/_.ama._.sha._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.ama._.sha._" height="30" width="40" /></a>
+<p align="center">
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sachintha-Samarathunga?color=236ad3&style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/twitter/follow/TrippleK?logo=twitter&style=for-the-badge" alt="ThrippleK" />
+<img src="https://komarev.com/ghpvc/?username=Sachintha-Samarathunga&color=blue&style=for-the-badge" alt="ThrippleK" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> </p>
+<div align="center">
+<a href="https://www.buymeacoffee.com/thrpplek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malkiamasha&show_icons=true&locale=en&layout=compact" alt="malkiamasha" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malkiamasha&show_icons=true&locale=en" alt="malkiamasha" /></p>
+<div align="center">
+<div>
+  I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+</div>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malkiamasha&" alt="malkiamasha" /></p>
+<br>
 
-[![An image of @malkiamasha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/malkiamasha)](https://holopin.io/@malkiamasha)
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="300">
+<img src="https://github.com/Sachintha-Samarathunga/Sachintha-Samarathunga/assets/98406068/7c87ca81-704e-4d14-8d8d-baf03327ac7a" width="250">
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="250">
+
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+
+<div align="center">
+<h2>Connect with me on     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h2>
+<a href="https://www.linkedin.com/in/malki-amasha-54a568242/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
+<a href="https://www.instagram.com/sachintha_samarathunge/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70"></a>
+<a href="https://web.facebook.com/sachintha.samarathunge" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70"></a>
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70">
+
+</div>
+
+<br>
+
+<div align="center">
+<h2>Languages & Tools <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="40">&nbsp;</h2>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,github,mongodb,mysql,nodejs,nextjs,php,py,react,tailwind,threejs,vite" alt="mongoDB" title="mongoDB"/>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<h2 align="center">GitHub Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2> 
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sachintha-Samarathunga&show_icons=true&locale=en&layout=compact&theme=tokyonight" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachintha-Samarathunga&count_private=true&show_icons=true&theme=tokyonight" align = "center"/>
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sachintha-Samarathunga&theme=tokyonight" />
+</p>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<br>
+
+
+![snake gif](https://github.com/Sachintha-Samarathunga/Sachintha-Samarathunga/blob/output/github-contribution-grid-snake-dark.svg)
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
+</p>
+
+<!--
+**Sachintha-Samarathunga/Sachintha-Samarathunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
